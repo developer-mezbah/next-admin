@@ -1,7 +1,12 @@
 HKskQXwOpCL0kOsQ
 
+This project collect on: https://www.youtube.com/watch?v=cBg6xA5C60s&list=PLwOkBvSfLHji1gp9iPXEIMSsbnL4fFe3C&index=54&t=10304s
 
 query search params files name
 search.js, users > page.js , lib > data.js
 paginations files name
 pagination.js, users > page.js , lib > data.js
+users and product add, delete mongodb = lib > actions.js
+
+            learn
+revalidatePath()
