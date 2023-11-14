@@ -8,5 +8,9 @@ paginations files name
 pagination.js, users > page.js , lib > data.js
 users and product add, delete mongodb = lib > actions.js
 
+MONGO=mongodb+srv://developermezbah:HKskQXwOpCL0kOsQ@cluster0.xd7uiw2.mongodb.net/dashboard?retryWrites=true&w=majority
+
+
+
             learn
 revalidatePath()
